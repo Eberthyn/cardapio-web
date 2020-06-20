@@ -62,13 +62,14 @@
 						<option value="Asa Sul">Asa Sul</option>
 						<option value="Cruzeiro">Cruzeiro</option>
 						<option value="Guará">Guará</option>
+						<option value="Sudoeste">Samambaia</option>
 						<option value="Jardim Botânico">Jardim Botânico</option>
-						<option value="Lago norte">Lago norte</option>
-						<option value="Lago sul">Lago sul</option>
+						<option value="Lago norte">Lago Norte</option>
+						<option value="Lago sul">Lago Sul</option>
 						<option value="Noroeste">Noroeste</option>
 						<option value="Octogononal">Octogononal</option>
-						<option value="Park Sul">Park Sul</option>
-						<option value="Sudoeste">Sudoeste</option>
+						<option value="Park Sul">Taguatinga</option>
+						<option value="Sudoeste">Ceilândia</option>
 					</select>
 				</div>
 			</div>
