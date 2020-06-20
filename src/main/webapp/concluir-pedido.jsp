@@ -23,7 +23,7 @@
 <script type="text/javascript" src="js/funcoes.js"></script>
 </head>
 <body>
-	<h2 class="bg-dark text-white">Cardápio Web</h2>
+	<h2 class="text-black">Cardápio Web</h2>
 	<div class="container">
 		<%
 			HttpSession sessao = request.getSession();

@@ -21,7 +21,7 @@
 </head>
 <body>
 	<form method="post" action="servletCliente" >
-		<h2 class="bg-dark text-white">Cardápio Web</h2>
+		<h2 class="text-black">Cardápio Web</h2>
 		<div class="container">
 
 			<div class="form-group row">
