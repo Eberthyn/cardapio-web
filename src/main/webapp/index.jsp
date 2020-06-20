@@ -24,7 +24,7 @@
 </head>
 <body>
 
-	<h2 class="bg-green text-black">Cardápio Web</h2>
+	<h2 class="text-black">Cardápio Web</h2>
 
 	<div class="container">
 
